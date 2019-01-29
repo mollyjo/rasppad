@@ -2,6 +2,7 @@
 Musical Pads software for the Raspberry Pi
 
 Chord Pads are all the rage in Christain Worship music. Songs like What a Beautiful Name use [pad chords](https://youtu.be/fuLseoQmhDE) to fill out the sound.  Below is a sample.
+
 [![What a Beautiful Name](http://img.youtube.com/vi/nQWFzMvCfLE/0.jpg)](http://www.youtube.com/watch?v=nQWFzMvCfLE) 
 
 This project provides the software to run a stand-alone device to output pads chords that can be selected from a worship leader on the fly. 
